@@ -2,11 +2,6 @@
 💫 About Me:
 🔭 I’m currently working on Budget Tracker<br>🤝 I’m looking for help with indie hacking<br>🌱 I’m currently mastering nextjs, tailwind & supabase
 
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFudDFicjRkemJ2MHJrYWFmcWJxNjc3dHFibWdsOHJncGpob2ZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
-</div>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srighnan_pitchika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Srighnan-Pitchika) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srighnanpitchika@gmail.com) 
 
