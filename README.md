@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srighnan Pitchika</h1>
-💫 About Me:
+## 💫 About Me: <br>
 🔭 I’m currently working on Budget Tracker<br>🤝 I’m looking for help with indie hacking<br>🌱 I’m currently mastering nextjs, tailwind & supabase
 
 ## 🌐 Socials:
