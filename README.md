@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srighnan Pitchika</h1>
 <h2>💫 About Me: </h2><br>
-🔭 I’m currently working on Budget Tracker<br>🤝 I’m looking for help with indie hacking<br>🌱 I’m currently mastering nextjs, tailwind & supabase
+<br>🤝 I’m looking for help with indie hacking<br>🌱 I’m currently mastering nextjs, tailwind & supabase
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srighnan_pitchika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Srighnan-Pitchika) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srighnanpitchika@gmail.com) 
