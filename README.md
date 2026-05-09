@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [Resume Analyzer](http://resumeanalyzer.srighnan.me)
 * 🧠  I'm currently learning React Native, Next.js, Production Level Deployment.
 * 👥  I'm looking to collaborate on any interesting projects.
-* 💬  Ask me about I'm Batman🦇.
+* 🦇  I'm Batman.
 
 # 💻 Tech Stack
 
